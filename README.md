@@ -1,13 +1,8 @@
 [![MasterHead](https://www.linkpicture.com/q/Blue-And-Purple-Geometric-Technology-LinkedIn-Banner.png)](https://khushboogoel01.github.io)
 
 ### Namaste 🙏
-Here you can contribute to any of my projects. If you are new and you want to try it out then follow the following steps:
-
-1. Choose any repository, and check out the description, where you can find the languages I have used in that projects. If you find the language familiar, open the repo.
-2. Fork the repo, download the zip, and unzip the file.
-3. Open the project, you can check the Readme file for running instructions
-4. Find any bug, or you can change any text, then push that folder to your GitHub.
-5. Now, you see an option to pull request, then specify the changes you have done and submit it.
+<h1>Contribute</h1>
+Here you can contribute to any of my projects. Choose any repository, and check out the description, where you can find the languages I have used in that projects. If you find the language familiar, then make any changes and open pull request.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev_aadi29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-aditya-gupta) 
