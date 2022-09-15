@@ -1,4 +1,6 @@
-### Hi there 👋
+[![MasterHead](https://www.linkpicture.com/q/Blue-And-Purple-Geometric-Technology-LinkedIn-Banner.png)](https://khushboogoel01.github.io)
+
+### Namaste 🙏
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev_aadi29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-aditya-gupta) 
