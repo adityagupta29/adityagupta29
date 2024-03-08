@@ -1,5 +1,3 @@
-[![MasterHead](https://www.linkpicture.com/q/Blue-And-Purple-Geometric-Technology-LinkedIn-Banner.png)]
-
 <h1>Namaste 🙏</h1>
 Here you can contribute to any of my projects. Choose any repository, and check out the description, where you can find the languages I have used in that projects. If you find the language familiar, then make any changes and open pull request.
 
