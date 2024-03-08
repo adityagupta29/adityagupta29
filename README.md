@@ -1,5 +1,5 @@
 <h1>Namaste 🙏</h1>
-Here you can contribute to any of my projects. Choose any repository, and check out the description, where you can find the languages I have used in those projects. If you find the language familiar, then make any changes and open pull request.
+Here you can contribute to any of my projects. Choose any repository, and check out the description, where you can find the languages I have used in those projects. If you find the language familiar, then make any changes and submit a pull request.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev_aadi29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-aditya-gupta) 
